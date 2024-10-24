@@ -17,8 +17,6 @@ public class Aritmetica {
 		return a / b;
 	}
 	
-	public static double multiplicar(double a, double b) {
-		return a * b;
-	}
+	
 
 }
